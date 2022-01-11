@@ -3,7 +3,7 @@
 - Know your device's location information in an organized and simple manner
 - Like the city and several information
 
-![clarification](https://raw.githubusercontent.com/Al-khalid/Keyloog/master/a.png?token=GHSAT0AAAAAABOTK4YSEVO5YPONVRBPEF7AYO4V7OQ)
+![clarification](https://raw.githubusercontent.com/Al-khalid/zz/master/i.png)
 
 
 
