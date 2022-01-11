@@ -1,7 +1,7 @@
 # IP informations
 
 - Know your device's location information in an organized and simple manner
-- by date json > Library requests
+- by data json > Library requests
 
 ![clarification](https://raw.githubusercontent.com/Al-khalid/zz/master/i.png)
 
