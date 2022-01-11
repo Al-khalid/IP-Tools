@@ -9,7 +9,7 @@
 
 
 # Installation
-   * `git clone https://github.com/Al-khalid/zz.git`
+   * `git clone https://github.com/Al-khalid/IP-Tools.git`
    * `cd Keyloog`
    * `python keylog.py`
 
