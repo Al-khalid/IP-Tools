@@ -10,9 +10,7 @@
 
 # Installation
    * `git clone https://github.com/Al-khalid/IP-Tools.git`
-   * `cd Keyloog`
-   * `python keylog.py`
+   * `cd IP-Tools`
+   * `python .\ip.py`
 
 
-# note
-- Youtube poC https://youtu.be/gxL4nNH2sTE
