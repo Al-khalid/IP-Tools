@@ -2,7 +2,7 @@
 
 - Know device's location information in an organized > and simple manner
 
-![clarification]()
+
 
 
 
